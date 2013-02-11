@@ -1,5 +1,5 @@
 (require 'vc-git)
-(require 'anything)
+(require 'anything-config)
 (provide 'anything-git-ls-files)
 
 (defun anything-git-ls-files-find-git-root ()
